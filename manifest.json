@@ -1,0 +1,2228 @@
+{
+  "sitemap": {
+    "fileOptions": {
+      "api/*": {
+        "baseUrl": "https://docs.tesseract.in/documentation/",
+        "changefreq": "daily"
+      }
+    },
+    "baseUrl": "https://docs.tesseract.in/documentation/",
+    "changefreq": "weekly"
+  },
+  "homepages": [],
+  "source_base_path": "D:/a/ExampleSnippets-SwipePlayerMovement/ExampleSnippets-SwipePlayerMovement/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.AudioSpectrumData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.AudioSpectrumData.html",
+          "hash": "usIGGJqy5cq12rhhhpgfHtvkeA+kL2qjfqNvd1AIUhg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.AudioVisualizer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.AudioVisualizer.html",
+          "hash": "7W2pdgVDPe5VMTwOAcdZTSByCpLIZ0OQbvESDETqPu8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.AudioVoiceVisualizer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.AudioVoiceVisualizer.html",
+          "hash": "jo5kE2T4OGO/2tev6YkcBKXTSihDQRNPSW14T8inkxQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.ButtonActionManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.ButtonActionManager.html",
+          "hash": "cBiP4ZMj51d0/lbjQfOuRLhKbJsGnwA7CAoQhy9oPDA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.DemoSceneInteractions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.DemoSceneInteractions.html",
+          "hash": "h8vAfTDnaoDWuU5QUOQ/O2VgoafwDkUTqGePtq/o8Cs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.InitResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.InitResult.html",
+          "hash": "IIdbE5Y+NsBtKUVR9rthyeBpHe5KJvvK2PDyoKT6Tqo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.IntentRecieverExample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.IntentRecieverExample.html",
+          "hash": "8jIxBOE+vpBU8N36DogFur53Tq4Ob7UhXAdY8QUeLSc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.IntentSenderExample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.IntentSenderExample.html",
+          "hash": "wbLhhlBC/sskR8jVjmK5LcWtEZ8g7Prh8uVQyhTRJRI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRConstantThemeSystem.SelectableState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRConstantThemeSystem.SelectableState.html",
+          "hash": "ma8MU6VPESGaS7otLSwm4X+k1qyx8GcJsQ5+JvalDuY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRConstantThemeSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRConstantThemeSystem.html",
+          "hash": "7x61rCsAb0i7tLIpx/KV38Xg32nD3TDj/uUfdUNt8lI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRDemoBezierExample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRDemoBezierExample.html",
+          "hash": "CPxbEzA3/Xe/8GRdA6FvgpOzfD2J6gD++ZLapmxWbp8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRDemoCameraExample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRDemoCameraExample.html",
+          "hash": "snMSqn8MsTbW9GHuTvNwAMr980QejIryAGUKuiK0PAw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRDemoDeviceExample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRDemoDeviceExample.html",
+          "hash": "Z+MmZQrHZ2OoBLoA/lpwknHbDQUVtoYw98udtzg8w3k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRDemoDisplayExample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRDemoDisplayExample.html",
+          "hash": "oNORujMkZ5mlrvQ/a5/8IfnyDPAZzjHR6OR5fSJzTfA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRDemoGlobalInteractionExample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRDemoGlobalInteractionExample.html",
+          "hash": "oo8jlgJAzXxoJnKWufu6W5OlxnHVgxrE90eWiXLizWE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRDemoInteractionExample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRDemoInteractionExample.html",
+          "hash": "tfi5RnxVOGoGRt1xRAzh2d6Qa8v5h9/hW0Rry1RctnE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRDemoInteractionGettersExample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRDemoInteractionGettersExample.html",
+          "hash": "bVmwuMjiolHoIigDvWQriVUa4u5V4/iIniiZvz5oqaY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRDemoInteractionSourceGetterExample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRDemoInteractionSourceGetterExample.html",
+          "hash": "DrSCqlQQCsrf0hh1N9QuahH17GcGl7xfLgkydCTwpcc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRDemoLocalInteractionExample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRDemoLocalInteractionExample.html",
+          "hash": "xvfbJswZA/AOJ9RhOjARnL9VyM8Nkj7/ZS+AkZ128DA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRDemoMaster.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRDemoMaster.html",
+          "hash": "os7OQLHSUHb7wU0HTKmDWUhSyjexM4NDCQT2ep9IcMQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRDemoParallelExample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRDemoParallelExample.html",
+          "hash": "AVwbkx9U9Gj9+Ll/ncOKQoAwRZ07OUsCUVuEk+JtIsg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRDemoPlatformExample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRDemoPlatformExample.html",
+          "hash": "7jbBRYiwicumUzQacO/aYmYMKBOB3NwFZ1MrgiFRrSE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRDemoSceneSwitcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRDemoSceneSwitcher.html",
+          "hash": "a4OW0g4YMVDIPdUEgX0+352twersdqbNYvn06xWhWFc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRDemoTestGlobalBackAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRDemoTestGlobalBackAction.html",
+          "hash": "eRpkj2+JeBtzEYDlLb+TCR/bkcDYAR7RFGSbeNEjviA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRDemoTrackingExample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRDemoTrackingExample.html",
+          "hash": "4Lx8NoORtmu8du3pU3uKME8ncdjqi1UfS474k5NzktM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRKeyboardSpawner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRKeyboardSpawner.html",
+          "hash": "L8Il7KGwke/Mchir8HYQgKjd3dDf9P7Iiu0QJALPeVw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRLogHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRLogHandler.html",
+          "hash": "MkskOGAlV6z5qntE/K8NB21Ac3H/bxgZtCDBrCNsoGI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRPackageSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRPackageSetup.html",
+          "hash": "hj/Ck6j6OLexoxvftvUjmuKxDHLRMAaJRsHEt++aKIo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRProgressIndicatorState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRProgressIndicatorState.html",
+          "hash": "r/DkKGOomA11s3yUBPI+CMeU82Zk27w5xbohs0HcOY8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.JMRSliderTint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.JMRSliderTint.html",
+          "hash": "aNHrSeji4MqRtu8aPnkcsRZLIsZoUIEsMCzMRGvJnlo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.KeySwitcherHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.KeySwitcherHelper.html",
+          "hash": "5CNIqUmDJYhsFIFdoOgt0gaLN4xGgFpcPrs3GozyjpY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.LayerUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.LayerUtils.html",
+          "hash": "UrOiR3vKWTwcYTELNvSnAEb+7wml+99v7hQaAsMFNHs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.MicrophoneInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.MicrophoneInput.html",
+          "hash": "h83GmP5rD+3M6Yk4EbdcRgxjNS0drT7U2nwfh+aQjpo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.PlayerPrefsManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.PlayerPrefsManager.html",
+          "hash": "LVhzBtBmwUNHRgbAhMRP07NyK+krYWBKwHFd8Qr2zWw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.PopupConfigDataContainer_CustomInspector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.PopupConfigDataContainer_CustomInspector.html",
+          "hash": "jsZULZRF5cR/1gmbmj0z79xlC8RPFhxPHOYwxe/p16U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.PopupConfigData_Container_JsonConverterExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.PopupConfigData_Container_JsonConverterExtension.html",
+          "hash": "qeuLP539lH2WufuJuYlWsPGRNbaqC3Y5KN3ujRTt/Pk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.ScaleLerper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.ScaleLerper.html",
+          "hash": "oNB9DwN5vVBaCA5PsEH0LJLAoDRO2ghFlIusoXMs77o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.ScrollingUV.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.ScrollingUV.html",
+          "hash": "kYi0zO0WDUD5Bit+Y6bulu43ahKp9Cz8mhg9mokaApw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.SortingLayer_Editor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.SortingLayer_Editor.html",
+          "hash": "EhLCRrENdK6FavNgWdV7SaL9qQYlzlvnsJOuz2i4s/Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.SystemUICommonConfig_CustomInspector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.SystemUICommonConfig_CustomInspector.html",
+          "hash": "h36G2treX1hvz5pPavTLQNG+CwNfNEuwab4yCJz44XU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.SystemUICommonConfigs_JsonConverterExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.SystemUICommonConfigs_JsonConverterExtension.html",
+          "hash": "C773flknqRMdkQcsyDjEKSHsGQH0hfFjVl2BNiZtKBg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.UIButtonSpawner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.UIButtonSpawner.html",
+          "hash": "InkcWI9cTov/iPgnVxxukJsYsQJ2Da7W80oQe02+PeA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.html",
+          "hash": "zxFmhaIzAhDmtTC+2FBWXoSiTxKMmVEGAKpRQi9pQTU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Demo.JMRDemoMultiSceneRayCastCameraSetter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Demo.JMRDemoMultiSceneRayCastCameraSetter.html",
+          "hash": "3I3VxH1Z1IcMYrz9EmPpj8+T/+2ZJgGqmtduO0AV5CA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Demo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Demo.html",
+          "hash": "ejC4CGBmAtc4KVi/xIxwSEnEvivx8cZSV/f5T0jlbc4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Editor_JMREmulatorKeyBinding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Editor_JMREmulatorKeyBinding.html",
+          "hash": "bBbdsxbX63unh6mvCMQNqgDdCIRlHzNlMQHTvq5xkHY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.InputModule.Editor_JMRControllerKeyBinding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.InputModule.Editor_JMRControllerKeyBinding.html",
+          "hash": "5aq+/UgUhrpNY4YkvLEs+5o2+fraxNxwkbz9dpCklko="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.InputModule.Editor_Manupulation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.InputModule.Editor_Manupulation.html",
+          "hash": "3rApTUXHSMZWAPjXHHgbZFhf26IFoNjKkcxLsQ8y3n8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.InputModule.JMRKeyboardPreviewField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.InputModule.JMRKeyboardPreviewField.html",
+          "hash": "vE6ajWTm/Or/fqW0vtxuhE1sbZPrCJBS8IGbNcnHHt0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.InputModule.JMRManipulation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.InputModule.JMRManipulation.html",
+          "hash": "ABoySufymms0kzqJS56D4q3T17eyT0+4VvAHnkfaAQc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.InputModule.JMRReadOnlyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.InputModule.JMRReadOnlyDrawer.html",
+          "hash": "kR1IyTKkRoik6ghXT5bbx8uH9H61u75g42XosjlzN0k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.InputModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.InputModule.html",
+          "hash": "qJ1I3A/YOZjNu7OfUqEoBjR7c6ZIv2+BVYO57XXgJog="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.JMRBaseThemeAnimator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.JMRBaseThemeAnimator.html",
+          "hash": "bCNbmvv99nMLcIXKPF2v7UCcIo/Ro9ARAEpCLbfbaGw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.JMRContentAnimations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.JMRContentAnimations.html",
+          "hash": "KdtylqyfpMEYMV/Q4bv5a+iIBcWqDUNr7+rIAM24kaE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.JMRToolkitManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.JMRToolkitManager.html",
+          "hash": "kWiG5IMpeRgyhN8oyalNDIb8lvKROzsIkaaL5TdJi4M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.JMRUIInteractable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.JMRUIInteractable.html",
+          "hash": "HtlEIQguyLgajQMkVyWiymB0DEpsInrT/6oVba3FQTU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.JMRUIPrimaryButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.JMRUIPrimaryButton.html",
+          "hash": "IytugH5UBFMsl6e2qWPD1zwGRcXzZA8NmCxcB9JgUno="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.JMRUIPrimaryCheckBoxButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.JMRUIPrimaryCheckBoxButton.html",
+          "hash": "ueffnW1eMFZOOyKEHKUBG4tVyqmBwXDQhnFKuybSScQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.JMRUIPrimaryCheckBoxButtonGroup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.JMRUIPrimaryCheckBoxButtonGroup.html",
+          "hash": "yB+f32ZTwISjB+JLOkn1PjZk1xbZ4gksiBWWdbotvK4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.JMRUIPrimaryDialogueBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.JMRUIPrimaryDialogueBox.html",
+          "hash": "P8ZQQ0G9S8CB5pOFtLyh+9aYS0QwZhEJjQH1zFziji0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.JMRUIPrimaryDialogueBoxError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.JMRUIPrimaryDialogueBoxError.html",
+          "hash": "Mt45UeeR/arCydjcI95D1EKeaXNwprhXTBPHi4NAQYk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.JMRUIPrimaryRadioButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.JMRUIPrimaryRadioButton.html",
+          "hash": "fUJjdPogn+BYZ+M2dNoDmgaX0Xch5Jrwq/T7WSx7DKo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.JMRUIPrimaryRadioButtonGroup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.JMRUIPrimaryRadioButtonGroup.html",
+          "hash": "XdIp5ByuWO2NR7EVry0Me9+WqLppxu2V17QuSWNuNlI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.JMRUIPrimaryToggleButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.JMRUIPrimaryToggleButton.html",
+          "hash": "NbSRzURjeUvXYYwRBfIP3ZdchiO06aR7udEhT/7K1gA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.JMRUISecondaryButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.JMRUISecondaryButton.html",
+          "hash": "FAp88IsrmUVxQtHzozbl3UrpJw/xodPtjGDI+BQMtiw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.JMRUITertiaryButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.JMRUITertiaryButton.html",
+          "hash": "VGPlDAKUCzcEo9APom9uLs1q44PT/Jwx8AS8pQJ18nk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.JMRUITertiaryButtonGroup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.JMRUITertiaryButtonGroup.html",
+          "hash": "EPNJtC8GBQpngF95pRa0i5D0KZrTPbbLpw7QxUer/8g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.ThemeSystem.Colors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.ThemeSystem.Colors.html",
+          "hash": "mcwXDSlGGsja/H4VtAKW3qWlrCOhSh0G1zEDpuJXnHw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.ThemeSystem.ColorsScheme.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.ThemeSystem.ColorsScheme.html",
+          "hash": "Um+f7d3R7/2+Kzs3XOywW5nrwdV5a2mtmX5gZ4idU+I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.ThemeSystem.IActionState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.ThemeSystem.IActionState.html",
+          "hash": "zuLCE31J65VceBm27fPDAwoSQY/opKscCocvAhfER/8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.ThemeSystem.IThemeHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.ThemeSystem.IThemeHandler.html",
+          "hash": "68a2wfJDq5gkZ4eBCLl07zVFFvpcm1BOfPRHK0xn5qg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.ThemeSystem.Icon.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.ThemeSystem.Icon.html",
+          "hash": "NVaHHTa+Af+4yjzsVlNEin05E/V9l4uL5CrRyxEC3hc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.ThemeSystem.JMRColorTheme.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.ThemeSystem.JMRColorTheme.html",
+          "hash": "hv1f3toZMIZgAxdBp+MYl0OnJrY6mUTVz1tzXFD2ew8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.ThemeSystem.JMRThemeColorSet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.ThemeSystem.JMRThemeColorSet.html",
+          "hash": "M1PipcAyMg2Qy+ib/uWQ/bKBbLHSTj+WmdMid3gj5HM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.ThemeSystem.LayerCategory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.ThemeSystem.LayerCategory.html",
+          "hash": "YMsS+O/pBBqEt8okXCenUBjEeX2lrSRxR4o5OkqkVlo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.ThemeSystem.ThemeIconStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.ThemeSystem.ThemeIconStyle.html",
+          "hash": "8yDY8B/EPhDSYN1pMLapcEbCpsXeLvHKEDujA125KqI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.ThemeSystem.ThemeLayer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.ThemeSystem.ThemeLayer.html",
+          "hash": "cO0dYvUDLMzcPcx5T8SDioVsygIP+OglYvmRmS3ujSo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.ThemeSystem.ThemeType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.ThemeSystem.ThemeType.html",
+          "hash": "HCkfWNRWwhMutlkR5KWXrRKuRVmh2oIhw/qF6FYbLHM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.ThemeSystem.iconsScheme.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.ThemeSystem.iconsScheme.html",
+          "hash": "SDyMUfaMWi7cT9rMgscCIXRUTFEtK61u9ALNU3V/Oss="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.ThemeSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.ThemeSystem.html",
+          "hash": "/2lhXOuv28uPVRpIekLUW7Kc4dGF4Sqw2eCoPg6Ulsc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.Constants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.Constants.html",
+          "hash": "hlfeBbUS7KqLel9Bm4tYkeV8Qh/qPLlMvoqaslyW3Ho="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.DMessageHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.DMessageHandler.html",
+          "hash": "3GEuWMrU2AdXvOS0Iv0kPpzGtKBwUWKA1fGM/KSVOi8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.DialogButtonType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.DialogButtonType.html",
+          "hash": "zc5zgWuvT44mvS5mj2rfN/Oa02dm7YaszANywUZsx7g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.DialogueBoxData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.DialogueBoxData.html",
+          "hash": "PgZvDPs/yQy9qCQY+IxFxCcRQx5eZa1enxsoCL1rSUc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.Direction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.Direction.html",
+          "hash": "BOrOrSQLwgZi7QdaY1mGhC8AoP4cSqldrNXPx/ntbP0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.IDropdownItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.IDropdownItem.html",
+          "hash": "7fDzrrgvLIY7mq6BCaMJlbD/8SxKDxD6oKzSyTqm5WU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.IKeyboardInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.IKeyboardInput.html",
+          "hash": "4x+SibVSz7EbVkns8cv58B8J6JgD13gRdGQCBAwq0d0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMR2DDropDown.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMR2DDropDown.html",
+          "hash": "v+REtp2Uqp/uHV6Qhic+n9iK5JFbvx5vX4otgUMus5E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRCanvasInspector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRCanvasInspector.html",
+          "hash": "TkYK+XObZ9rQnuHd7zgceWQZ7W2w82vBG0y+0Tdmaqo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRCanvasUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRCanvasUtility.html",
+          "hash": "uki1gerwdL2ioggwurUQmvf+LIqu4ayQZgHrD//+3yY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRCheckBoxButtonAnimator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRCheckBoxButtonAnimator.html",
+          "hash": "KbLEZnKLaBwwEunD1XZkKnfZ6E+FNEWL0Sg/Ud7JoV8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRDialogAbstractBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRDialogAbstractBase.html",
+          "hash": "SqJ/czuK02QgOastbdhmgDIOOHyox43mPQ2547Qb4rA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRDialogueBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRDialogueBox.html",
+          "hash": "FFCipo9CLAcroiF4QfzvoDCiPX8YmmqHvxowQjahEQ8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRDialogueBoxButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRDialogueBoxButton.html",
+          "hash": "It5sd49eT8RnVuOhN6ioLNAY3tI8DN1bOwUqbbojb4k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRDropDownItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRDropDownItem.html",
+          "hash": "wt9O4C99nTWQT9Ik3s3SjXuJAv20n1Q8gp1MkbVXlO0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRImageView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRImageView.html",
+          "hash": "Wy4w3XOiswB/L2SYcOu55DKmw0B+YdMELmyHN97oIPM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.CharacterValidation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.CharacterValidation.html",
+          "hash": "1MkQ8gqDuxJi7dv9bR8blIjrvj4YHMdeCYdvBQjJfns="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.ContentType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.ContentType.html",
+          "hash": "IYLoOyhfjH/QBk7T0iQRUTOf0WHdG2EfAedIzsmY7Vw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.EditState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.EditState.html",
+          "hash": "RD9k2/tW4KhX9jQsdqT+AZfEVMFsbNYfJ8MqIb7vnyk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.InputType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.InputType.html",
+          "hash": "fQr8FkOA9GaZPNd3bLkwn+aB+anCcCARO4NKK1+8MY8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.LineType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.LineType.html",
+          "hash": "4BxJJ1uM/n9ISyOvfiMf/oZqAZvg28lKKLB+e3GkmAc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.OnChangeEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.OnChangeEvent.html",
+          "hash": "MQM3pwME+yOiHt/iQgjytOuNf8eB/0kR+9Oi0i4sgW8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.OnValidateInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.OnValidateInput.html",
+          "hash": "Yz5494kfc9z2FPiugRWtrJkaEfobv9423P0p0+8ZPDc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.SelectionEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.SelectionEvent.html",
+          "hash": "a0d0/BT30/5whByOZk3ORiquwX2QsytT+FBpJSosRUQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.SubmitEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.SubmitEvent.html",
+          "hash": "PHZ/coJRMiQ24zry7Th7szR0ubWGLdUsHNoVE5HOEmc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.TextSelectionEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.TextSelectionEvent.html",
+          "hash": "oodKIfGw2ljl5CMCty41s+ZLS3KQ8p83hIjgt85qPno="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.TouchScreenKeyboardEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.TouchScreenKeyboardEvent.html",
+          "hash": "2qoEwvSPF9u1kgNLkuDDADb6Xd4VUxmzueTJnJLPcVU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRInputField.html",
+          "hash": "AQMmCYi4guVfYDqO2LWiNk3O1wksWwsUYoEfQcFJF4U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRProgressIndicator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRProgressIndicator.html",
+          "hash": "o0oG6OoxIcWqwoOqpOF6rnJHHR6wKwLDzmj1iOVz2qY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRScrollRect.MovementType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRScrollRect.MovementType.html",
+          "hash": "frPgS6edxdOdgJWx5hAOZbwfLXJ4jvURAblMuT29GaY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRScrollRect.ScrollRectEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRScrollRect.ScrollRectEvent.html",
+          "hash": "2yIBjLIGh/6vTyOQ+gD/WfOXx3x8hw7jMZV2sQyHNxA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRScrollRect.ScrollbarVisibility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRScrollRect.ScrollbarVisibility.html",
+          "hash": "jzCmHt+BefqfWgKWca6I2ME2CfXpHCmE99QMH+w1+2o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRScrollRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRScrollRect.html",
+          "hash": "lEbiipN9FjUmxpUSaEZ1MWjqu4BqS7vE5fhJrfAWZ5Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.CharacterValidation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.CharacterValidation.html",
+          "hash": "b10BBdxVbaBW8teko9o0U1fUVTG/M/xfc4+u3ZLujGQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.ContentType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.ContentType.html",
+          "hash": "bvPibBXzVkIGXJn19pfjn+0E9oVrPXmaVvYQW2wFLMc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.EditState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.EditState.html",
+          "hash": "fQkoXoiuzqiCbuJkQMPCkKAFbhIh6EBm33ucwZQ6mVc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.InputType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.InputType.html",
+          "hash": "VU6spjt4l+p38KRxsHMkX8NTZRfgtDC1uv7DmK9mePg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.LineType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.LineType.html",
+          "hash": "eG1dsUJDI39qo0ljgi/nKsWshUzsilRgFAWZhQvuxSo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.OnChangeEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.OnChangeEvent.html",
+          "hash": "1wZbhDTryIjqIcwFQPH/c+kcrtlV2HRVNXnXRtzid6w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.OnValidateInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.OnValidateInput.html",
+          "hash": "dQEEPRZez7pQRj5LDVufucwYXzCvstO/BdBaSEXinjY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.SelectionEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.SelectionEvent.html",
+          "hash": "cONd4gZmobzYP9oQI7Bew4aRCmouRhlXsSWK7beQIf8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.SubmitEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.SubmitEvent.html",
+          "hash": "b7Szy8ekNfOmUJXQ5ivANtEkma/S96tPqm3ZJc+R1pE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.TextSelectionEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.TextSelectionEvent.html",
+          "hash": "n6azJbuxO6/0d4ki4gpqQcAv/5RcWD/NCY5kO4AMh78="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.TouchScreenKeyboardEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.TouchScreenKeyboardEvent.html",
+          "hash": "sB7t3/7+9QUsXgBNS+gRJmjkhUO9m9l0cAKRwwEj1pY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRSearchField.html",
+          "hash": "id8K/zcxWU4XRrGFk3gEYeMP9pp/5yllS9b0S6J7pPc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRThemeConfigHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRThemeConfigHelper.html",
+          "hash": "UHWTvR3vAeCtlKP4rbPHSWPhac5MXD9RnY7JOPcC8aI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRToolTip.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRToolTip.html",
+          "hash": "3auEDAa812+tLkV6QLoCjiGbTMkhnJ1obZtjH5Jbjho="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIButton.html",
+          "hash": "+U/+xj2HVuitfpwLSIu1YhSMFftmofzXkYfSbioFcF8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUICheckBoxButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUICheckBoxButton.html",
+          "hash": "wIzWsluZgQhtSUtPgwcMVYQ5idcdp9+s8LzX0dAp3Dk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUICheckBoxButtonGroup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUICheckBoxButtonGroup.html",
+          "hash": "k1XPj12Gm4oAR31FCWBRCwAEWSCl8CNjWS8t5pAVp8Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryDropDown.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryDropDown.html",
+          "hash": "BTL5xWx4Fg+J44pLrNHAHut0nhTtQRxVZgEH+onJANg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryDropDownItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryDropDownItem.html",
+          "hash": "MGsISBZ+osu4m5fF9wk/4jq3PhwNjgiJYsyvh+qrMhk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.CharacterValidation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.CharacterValidation.html",
+          "hash": "1f1Qzr0pke50OlZiJITCHDO863HqSrFCscMzznWrIIM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.ContentType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.ContentType.html",
+          "hash": "rD7N1CsvgsZ2myNDKV65xJkUJIZ8VwOTQKUm6ccSGiQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.EditState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.EditState.html",
+          "hash": "b2HyeRYlwzQJYnkcjjRTZwFHZMxk6i5i5khJSTAMSXc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.InputType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.InputType.html",
+          "hash": "jjtZQt2jcPELOw2LwXiYTF4IgTV8zEw7qA8TGymUdPk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.LineType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.LineType.html",
+          "hash": "bQtXHqASTmYt1B4hUoRovuGnJfQPtH5+IJ0z+EhfqTY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.OnChangeEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.OnChangeEvent.html",
+          "hash": "r5+j7MDnm10FC2Tlf2ccO/BQfu9m9s4XSu+lwx0qYc0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.OnValidateInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.OnValidateInput.html",
+          "hash": "4JKuYhtVUifcsYX+7mvwlcsHyO0Dj0weLVbx2sZ+pI4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.SelectionEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.SelectionEvent.html",
+          "hash": "wgvVs4bCsGsCbid0jUVVIRqtfQxgYQXWjh2Yf7kZY+4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.SubmitEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.SubmitEvent.html",
+          "hash": "sNy1JCqIdSQA/+60O3GreLnguoRsQtoK2831JyoYwb0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.TextSelectionEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.TextSelectionEvent.html",
+          "hash": "Ht9v/3X3i1zmd9dAx/hDnUHCt9XV4HBNKISwl+S/1bk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.TouchScreenKeyboardEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.TouchScreenKeyboardEvent.html",
+          "hash": "4LhdLHK5CNy3Timk4aJQcRc/4v66ZuqnyirwNUt89yQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.html",
+          "hash": "CjSAPHD11fyYx4zf4xPuKOYFrmdd6M/ojEUUQOqWMXs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.CharacterValidation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.CharacterValidation.html",
+          "hash": "9pdjYxDvNzOd7Y/83AlilWj6LGhDL2M1V4D/+MYFsp0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.ContentType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.ContentType.html",
+          "hash": "hLTCDHsyYSfTZvQDWAFirvHcRjxbKOrEWn2wJgmlEfM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.EditState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.EditState.html",
+          "hash": "V7qQayH/tQ29QZIprSWQPMt8EQyLjD7HjyenvHOiJkw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.InputType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.InputType.html",
+          "hash": "agalz/jRUQu1j7q9KabMD252ZjPzJI42SAD61F3jqi8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.LineType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.LineType.html",
+          "hash": "aebP/oeyxbuhCaCjbIpOKHQGQWNxTdjX0wQqaUGWhko="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.OnChangeEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.OnChangeEvent.html",
+          "hash": "Lr1YA9gC0rbKL8tSiA959aC2kWo2tbG3Sej6qm8s5hg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.OnValidateInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.OnValidateInput.html",
+          "hash": "GaRpBxgPuKzda/fVtB1FZAE4Uv58sSxT7Y/keH8bDlQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.SelectionEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.SelectionEvent.html",
+          "hash": "5RmBWnMk6jDKkR1FfzMTEm6XloQd/I2Mg93Hmy+Bby4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.SubmitEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.SubmitEvent.html",
+          "hash": "sDehR6YoA3jdAG7i/iPNB8V2ZhsI1ZL8PATvRnn3oy4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.TextSelectionEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.TextSelectionEvent.html",
+          "hash": "o3PNIzioPDLdwIFXeNbBVGkIyeOAhw89tRE2DAPSf3A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.TouchScreenKeyboardEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.TouchScreenKeyboardEvent.html",
+          "hash": "X6Y9PMA3e6VmYoIcp+7oUdNy1QhQeUs7jAhThCFo2aM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.html",
+          "hash": "kEBhw1azYS08/BiXw/qVij218msnzVqBhuc47uCr9g0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIRadioButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIRadioButton.html",
+          "hash": "+g+IgQCAWh6u28JQZ5Z9PwRA+LgYWd5wGgw3Ge+oNfY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIRadioButtonGroup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIRadioButtonGroup.html",
+          "hash": "zK50/uN8Ezf6+NS77Z0/Vak8wLyAmUrUS7gH9TTSuTY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUISlider.Direction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUISlider.Direction.html",
+          "hash": "2sPmGtZOdnhvyXHZ81xA9xOdZGWLvVgi6QhKpIRxRC8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUISlider.SliderAxis.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUISlider.SliderAxis.html",
+          "hash": "G+aj9d96Kaj0UTvXVve/ZQs/0Ysppgf8GX69IbQa5Zw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUISlider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUISlider.html",
+          "hash": "id79s0kWzdqr6rvjtzJ6HKU1VW1rnimHYekr3uCjcSc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUISliderSwipeControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUISliderSwipeControl.html",
+          "hash": "PSbFCpt38G7s4xvhmE50FgqPqqx9Vvfl4QaVtWyvoQA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRUIToggle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRUIToggle.html",
+          "hash": "fK6aoEx6KgB/GROgVBYouHvIpc9eEOeeAWvlHdGmlU8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRVirtualKeyBoard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRVirtualKeyBoard.html",
+          "hash": "YcfOchsLMjzH/vYjvK1ZBrFM35PfJvhwSVczJb/wqXo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.JMRVirtualKeyboardKeys.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.JMRVirtualKeyboardKeys.html",
+          "hash": "3DRroM5tj2ujMt0QAncI/RIsQvGXR7nJwCeGGQfAiqc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.Utilities.JMRScaleMeshEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.Utilities.JMRScaleMeshEffect.html",
+          "hash": "l6HW/egt/2LSnhzj4IdWK6BXJA3WTYnLOqTigG7Xi7o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.Utilities.JMRStandardShaderUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.Utilities.JMRStandardShaderUtility.html",
+          "hash": "BcvPokt3S3bZ8Hhdr4XPQjdlcFKCJ9ZOPmxbq9yQi7Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.Utilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.Utilities.html",
+          "hash": "vW+Z/iMvYfWhajXJfRMjNWAms4BfsLc2Di4RPnCmz00="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.UI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.UI.html",
+          "hash": "NQUIMk+0XoqD/u8DxjvpZMMChRGHFT6wVR6Js7UKCUg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.Toolkit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.Toolkit.html",
+          "hash": "gC+eM4prY8PHckKP+t5O/Bjtc861oyZKu7/QcMIY000="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDK.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDK.html",
+          "hash": "gZR0UzXjkltb++SH99PfVgWd0/gepESub4Q8xFm2odE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDKExampleSnippets.SwipePlayerMovement.SwipePlayerMovement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDKExampleSnippets.SwipePlayerMovement.SwipePlayerMovement.html",
+          "hash": "hE8+m0nt02Kl7yteQB+eh2ir9s6S87xUpc6cEvz0gc8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JMRSDKExampleSnippets.SwipePlayerMovement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JMRSDKExampleSnippets.SwipePlayerMovement.html",
+          "hash": "O9e7B34wE1DVY4pesvIrBzocyjAO/odNMUiuleyNJX8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "iIPYzjPu2gs/M1uDca7cLcr0C+oYq0pCIPGgU9/n4Qo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "BAd2IV5JQ9QjZiZJ3DaW8c6C6msIgxXBA0YXWI6lFCQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "UmoHjlAbqNXd/TRKhEAeIerjtp4lVavlaR/RL9VsJG0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/ExampleManual.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/ExampleManual.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/ExampleScriptingApi.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/ExampleScriptingApi.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "K/utcxrwOvyqQ6l/O5dQtQ3jo8Iz07kB3d66Fd8g8uU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 1,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 173,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
