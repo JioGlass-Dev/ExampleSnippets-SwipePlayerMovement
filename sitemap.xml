@@ -2,1045 +2,1045 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.AudioSpectrumData.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.AudioVisualizer.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.AudioVoiceVisualizer.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.ButtonActionManager.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.DemoSceneInteractions.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.InitResult.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.IntentRecieverExample.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.IntentSenderExample.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRConstantThemeSystem.SelectableState.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRConstantThemeSystem.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRDemoBezierExample.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRDemoCameraExample.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRDemoDeviceExample.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRDemoDisplayExample.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRDemoGlobalInteractionExample.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRDemoInteractionExample.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRDemoInteractionGettersExample.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRDemoInteractionSourceGetterExample.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRDemoLocalInteractionExample.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRDemoMaster.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRDemoParallelExample.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRDemoPlatformExample.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRDemoSceneSwitcher.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRDemoTestGlobalBackAction.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRDemoTrackingExample.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRKeyboardSpawner.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRLogHandler.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRPackageSetup.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRProgressIndicatorState.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.JMRSliderTint.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.KeySwitcherHelper.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.LayerUtils.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.MicrophoneInput.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.PlayerPrefsManager.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.PopupConfigData_Container_JsonConverterExtension.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.PopupConfigDataContainer_CustomInspector.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.ScaleLerper.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.ScrollingUV.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.SortingLayer_Editor.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.SystemUICommonConfig_CustomInspector.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.SystemUICommonConfigs_JsonConverterExtension.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.UIButtonSpawner.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/Global.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Demo.JMRDemoMultiSceneRayCastCameraSetter.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Demo.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Editor_JMREmulatorKeyBinding.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.InputModule.Editor_JMRControllerKeyBinding.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.InputModule.Editor_Manupulation.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.InputModule.JMRKeyboardPreviewField.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.InputModule.JMRManipulation.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.InputModule.JMRReadOnlyDrawer.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.InputModule.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.JMRBaseThemeAnimator.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.JMRContentAnimations.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.JMRToolkitManager.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.JMRUIInteractable.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.JMRUIPrimaryButton.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.JMRUIPrimaryCheckBoxButton.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.JMRUIPrimaryCheckBoxButtonGroup.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.JMRUIPrimaryDialogueBox.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.JMRUIPrimaryDialogueBoxError.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.JMRUIPrimaryRadioButton.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.JMRUIPrimaryRadioButtonGroup.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.JMRUIPrimaryToggleButton.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.JMRUISecondaryButton.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.JMRUITertiaryButton.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.JMRUITertiaryButtonGroup.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.ThemeSystem.Colors.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.ThemeSystem.ColorsScheme.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.ThemeSystem.IActionState.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.ThemeSystem.Icon.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.ThemeSystem.iconsScheme.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.ThemeSystem.IThemeHandler.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.ThemeSystem.JMRColorTheme.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.ThemeSystem.JMRThemeColorSet.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.ThemeSystem.LayerCategory.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.ThemeSystem.ThemeIconStyle.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.ThemeSystem.ThemeLayer.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.ThemeSystem.ThemeType.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.ThemeSystem.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.Constants.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.DialogButtonType.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.DialogueBoxData.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.Direction.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.DMessageHandler.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.IDropdownItem.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.IKeyboardInput.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMR2DDropDown.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRCanvasInspector.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRCanvasUtility.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRCheckBoxButtonAnimator.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRDialogAbstractBase.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRDialogueBox.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRDialogueBoxButton.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRDropDownItem.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRImageView.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRInputField.CharacterValidation.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRInputField.ContentType.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRInputField.EditState.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRInputField.InputType.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRInputField.LineType.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRInputField.OnChangeEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRInputField.OnValidateInput.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRInputField.SelectionEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRInputField.SubmitEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRInputField.TextSelectionEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRInputField.TouchScreenKeyboardEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRInputField.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRProgressIndicator.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRScrollRect.MovementType.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRScrollRect.ScrollbarVisibility.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRScrollRect.ScrollRectEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRScrollRect.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRSearchField.CharacterValidation.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRSearchField.ContentType.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRSearchField.EditState.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRSearchField.InputType.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRSearchField.LineType.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRSearchField.OnChangeEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRSearchField.OnValidateInput.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRSearchField.SelectionEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRSearchField.SubmitEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRSearchField.TextSelectionEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRSearchField.TouchScreenKeyboardEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRSearchField.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRThemeConfigHelper.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRToolTip.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIButton.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUICheckBoxButton.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUICheckBoxButtonGroup.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimaryDropDown.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimaryDropDownItem.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.CharacterValidation.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.ContentType.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.EditState.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.InputType.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.LineType.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.OnChangeEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.OnValidateInput.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.SelectionEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.SubmitEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.TextSelectionEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.TouchScreenKeyboardEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimaryInputField.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.CharacterValidation.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.ContentType.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.EditState.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.InputType.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.LineType.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.OnChangeEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.OnValidateInput.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.SelectionEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.SubmitEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.TextSelectionEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.TouchScreenKeyboardEvent.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIPrimarySearchField.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIRadioButton.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIRadioButtonGroup.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUISlider.Direction.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUISlider.SliderAxis.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUISlider.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUISliderSwipeControl.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRUIToggle.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRVirtualKeyBoard.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.JMRVirtualKeyboardKeys.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.Utilities.JMRScaleMeshEffect.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.Utilities.JMRStandardShaderUtility.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.Utilities.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.UI.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.Toolkit.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDK.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDKExampleSnippets.SwipePlayerMovement.SwipePlayerMovement.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/api/JMRSDKExampleSnippets.SwipePlayerMovement.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.tesseract.in/documentation/index.html</loc>
-    <lastmod>2021-10-19T11:42:32+00:00</lastmod>
+    <lastmod>2021-10-19T11:44:13+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
