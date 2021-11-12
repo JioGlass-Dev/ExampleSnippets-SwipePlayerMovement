@@ -3,7 +3,7 @@ Example of implementing swipe based player movement
 
 ## Scripts 
 
-### `SwipePlayerMovement.cs`
+### [`SwipePlayerMovement.cs`](https://github.com/JioGlass-Dev/ExampleSnippets-SwipePlayerMovement/blob/main/Assets/Scripts/JMRSDKExampleSnippets/SwipePlayerMovement.cs)
 Shows example of moving the player on controller swipe.</br>
 - Interfaces to implement swipe funtionality
 ```cs
