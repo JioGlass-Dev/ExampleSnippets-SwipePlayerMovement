@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>ExampleSnippets-SwipePlayerMovement | JMR Samples </title>
+    <title>Swipe Player Movement | JMR Samples </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="ExampleSnippets-SwipePlayerMovement | JMR Samples ">
+    <meta name="title" content="Swipe Player Movement | JMR Samples ">
     <meta name="generator" content="docfx 2.58.9.0">
     
     <link rel="shortcut icon" href="favicon.ico">
@@ -70,11 +70,42 @@
         <div class="article row grid">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="examplesnippets-swipeplayermovement">ExampleSnippets-SwipePlayerMovement</h1>
+<h1 id="swipe-player-movement">Swipe Player Movement</h1>
 
-<p>JMRSDK v4.8 
-Unity v2019.4.3f1</p>
-<p>Swipe based player movement example</p>
+<p>Example of implementing swipe based player movement</p>
+<h2 id="scripts">Scripts</h2>
+<h3 id="swipeplayermovementcs"><code>SwipePlayerMovement.cs</code></h3>
+<p>Shows example of moving the player on controller swipe.<br></p>
+<ul>
+<li>Interfaces to implement swipe funtionality
+<code>cs
+public class SwipePlayerMovement : MonoBehaviour, ISwipeHandler</code></li>
+<li>Methods to implement swipe funtionality
+<code>cs
+public void OnSwipeUp(SwipeEventData eventData, float value)
+{ }
+public void OnSwipeDown(SwipeEventData eventData, float value)
+{ }
+public void OnSwipeLeft(SwipeEventData eventData, float value)
+{ }
+public void OnSwipeRight(SwipeEventData eventData, float value)
+{ }
+public void OnSwipeStarted(SwipeEventData eventData)
+{ }
+public void OnSwipeUpdated(SwipeEventData eventData, Vector2 swipeData)
+{ }
+public void OnSwipeCompleted(SwipeEventData eventData)
+{ }
+public void OnSwipeCanceled(SwipeEventData eventData)
+{ }</code></li>
+</ul>
+<h2 id="how-to-use">How to use?</h2>
+<ol>
+<li>Download and unzip this project.</li>
+<li>Open the project using Unity Hub.</li>
+<li>Download and import the latest version of JMRSDK package.</li>
+<li>Open and play the SwipePlayerMovement scene from Assets/Scenes folder.</li>
+</ol>
 </article>
           </div>
           
